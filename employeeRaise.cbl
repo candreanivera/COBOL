@@ -1,3 +1,10 @@
+       *===============================================================*
+      *  PROGRAM      : EMPLOYEERAISE                                *
+      *  AUTOR        : MODIFIED BY CRISTINA ANDREANI                *
+      *  DATE         : 15-07-2025                                   *
+      *  DESCRIPTION  : UPDATES THE RATE FOR A LIST OF EMPLOYEES     *
+      *                 GIVING A FIXED INCREASED                     *
+      *===============================================================*
        IDENTIFICATION DIVISION.
        PROGRAM-ID. EMPLOYEERAISE.
 
