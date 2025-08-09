@@ -12,3 +12,5 @@ Unstring: Transforms an input separated by commas into a new file separated by v
 
 Inspect: Transforms the pet number: Removes hyphens and replaces for spaces. Also validates the email verifying that only
 contains one '@'
+
+String: Uses the String command to leave only 1 space between name and surname
