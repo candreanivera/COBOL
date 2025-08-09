@@ -9,3 +9,6 @@ ReadIndex: Read an index file using either the Key (ID Game) or a secondary Id (
 Relative: Contains a program to create a relative file and other to read a relative file.
 
 Unstring: Transforms an input separated by commas into a new file separated by variables
+
+Inspect: Transforms the pet number: Removes hyphens and replaces for spaces. Also validates the email verifying that only
+contains one '@'
