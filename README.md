@@ -7,3 +7,5 @@ IndexFile: Creates an indexed file from a line sequential file
 ReadIndex: Read an index file using either the Key (ID Game) or a secondary Id (Hometeam)
 
 Relative: Contains a program to create a relative file and other to read a relative file.
+
+Unstring: Transforms an input separated by commas into a new file separated by variables
